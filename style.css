@@ -9,4 +9,15 @@ h1{
 }
 a{
     color: orange;
+    text-decoration: none;
+}
+nav{
+    text-align: center;
+}
+p{
+    padding-left: 15px;
+}
+h2{
+    font-size: 30px;
+    padding-left: 10px;
 }
