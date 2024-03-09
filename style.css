@@ -15,10 +15,11 @@ nav{
     text-align: center;
 }
 p{
-    padding-left: 15px;
+    padding-left: 20px;
+    font-size: 20px;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
     padding-left: 10px;
 }
 .mainpageWW{
@@ -27,4 +28,10 @@ h2{
 }
 a:hover{
     color: white;
+}
+ol{
+    padding: 30px;
+}
+li{
+    font-size: 20px;
 }
